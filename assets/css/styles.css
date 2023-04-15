@@ -1,0 +1,21 @@
+body{
+    margin: auto;
+    padding: auto;
+    width: 350px;
+    height: 350px;
+    background-image: url('../img/heavens.jpg')
+    
+}
+
+.DigimonShow{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: x-large;
+    border-image-width: auto ;
+    
+}
+
+#imagenDelDigimon{
+    size: small;
+}
